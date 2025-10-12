@@ -26,6 +26,8 @@
 - We simulate having multiple datasets from multiple organizations (also called the “cross-silo” setting in federated learning) by splitting the original CIFAR-10 dataset into multiple partitions.
 
 ### Flower:
+- Federated Learning with PyTorch and Flower (Quickstart Example):
+  - https://github.com/adap/flower/tree/main/examples/quickstart-pytorch
 
 - Install Flower:
   - pip install flwr
