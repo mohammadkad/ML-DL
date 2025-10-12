@@ -27,3 +27,6 @@
 - Step 4: Aggregate model updates into a new global model
   - Federated Averaging (McMahan et al., 2016), often abbreviated as FedAvg
 - Step 5: Repeat steps 1 to 4 until the model converges
+
+### cross-silo
+- We simulate having multiple datasets from multiple organizations (also called the “cross-silo” setting in federated learning) by splitting the original CIFAR-10 dataset into multiple partitions.
