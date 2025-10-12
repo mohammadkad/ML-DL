@@ -1,12 +1,6 @@
 <!-- 1404-07-19 -->
 ### Federated Learning:
 
-- Install Flower:
-  - pip install flwr
-  - pip install "flwr[simulation]"
-  - import flwr
-  - print(flwr.__version__) # 1.22.0
-
 ### Cases:
 - data is not available on a centralized server
 - data available on one server is not enough to train a good model
@@ -30,3 +24,16 @@
 
 ### cross-silo
 - We simulate having multiple datasets from multiple organizations (also called the “cross-silo” setting in federated learning) by splitting the original CIFAR-10 dataset into multiple partitions.
+
+### Flower:
+
+- Install Flower:
+  - pip install flwr
+  - pip install "flwr[simulation]"
+  - import flwr
+  - print(flwr.__version__) # 1.22.0
+
+- flwr new flower-tutorial --framework pytorch --username flwrlabs
+- cd flower-tutorial
+- pip install -e .
+- flwr run . OR flwr run . --run-config "num-server-rounds=5 local-epochs=3"
