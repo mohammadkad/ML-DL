@@ -1,5 +1,6 @@
 <!-- 1404-07-19 -->
 ### Federated Learning:
+- Federated learning is a machine learning technique that trains a model collaboratively across multiple devices without centralizing sensitive data.
 
 ### Cases:
 - data is not available on a centralized server
