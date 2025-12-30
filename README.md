@@ -1,6 +1,6 @@
 ### Subfields of artificial intelligence:
 - Perception
-- Machine learning
+- Machine learning (ML)
   - Deep learning (DL) : Using multi-layered non-linear function approximation, typically neural networks.
 - Expert systems
 - Planning
