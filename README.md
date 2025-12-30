@@ -1,6 +1,7 @@
 ### Subfields of artificial intelligence:
 - Perception
 - Machine learning
+  - Deep learning (DL) : Using multi-layered non-linear function approximation, typically neural networks.
 - Expert systems
 - Planning
 - Natural language processing
@@ -13,3 +14,4 @@
 - Supervised learning (SL)
 - Unsupervised learning (UL)
 - Reinforcement learning (RL)
+  - Deep reinforcement learning (DRL) is the intersection of reinforcement learning and deep learning.
