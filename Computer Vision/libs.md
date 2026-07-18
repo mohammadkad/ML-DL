@@ -7,3 +7,11 @@
   - FLANN: https://github.com/primetang/pyflann
     - FLANN (Fast Library for Approximate Nearest Neighbors)
   - HNSW: Hierarchical navigable small world
+
+
+ ### Feature Matching:
+ - ORB (Oriented FAST and Rotated BRIEF)
+ - BFMatcher (Brute-Force Matcher)
+ - FLANN-based Matcher (Fast Library for Approximate Nearest Neighbors)
+  - https://www.geeksforgeeks.org/data-science/feature-matching-in-opencv/
+  - https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
