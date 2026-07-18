@@ -15,3 +15,6 @@
  - FLANN-based Matcher (Fast Library for Approximate Nearest Neighbors)
   - https://www.geeksforgeeks.org/data-science/feature-matching-in-opencv/
   - https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
+### Deep:
+- https://github.com/chicleee/EDM
+- https://github.com/zju3dv/LoFTR
