@@ -19,3 +19,4 @@
 - https://github.com/chicleee/EDM
 - https://github.com/zju3dv/LoFTR
 - https://github.com/cvg/lightglue
+- https://github.com/cvg/glue-factory/
