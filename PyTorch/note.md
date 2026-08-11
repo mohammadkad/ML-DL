@@ -1,0 +1,1 @@
+- DDP: Distributed Data Parallel, which is PyTorch's built-in module for multi-GPU distributed training.
