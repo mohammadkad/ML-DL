@@ -20,3 +20,8 @@ results[0].show()  # Display results
 
 # Export the model to ONNX format for deployment
 path = model.export(format="onnx")  # Returns the path to the exported model
+
+'''
+like:
+yolo mode=train model=yolo26n.pt data=coco8.yaml imgsz=640 epochs=100 batch=16
+'''
