@@ -28,3 +28,6 @@
   - The .pt file is the standard format for saving a model in PyTorch, the deep learning framework that YOLO is built upon.
   - It's a snapshot of your model's "brain"—its learned weights and its architecture, saved in PyTorch's native format.
   - Performance: A major reason to convert to ONNX is faster inference.
+
+ - ExecuTorch: https://github.com/pytorch/executorch
+   - ExecuTorch is PyTorch's unified solution for deploying AI models on-device—from smartphones to microcontrollers—built for privacy, performance, and portability.
