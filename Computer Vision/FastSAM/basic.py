@@ -1,3 +1,7 @@
+# 1405-06-31, Mohammad Kadkhodaei
+# https://docs.ultralytics.com/models/fast-sam
+# https://github.com/CASIA-LMC-Lab/FastSAM/tree/main
+
 # Define an inference source
 source = "dogs.jpg"
 
