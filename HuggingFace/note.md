@@ -1,0 +1,4 @@
+### Hugging Face
+- path in windows: C:\Users\USERNAME\.cache\huggingface\hub
+- hf version
+- hf cache list
